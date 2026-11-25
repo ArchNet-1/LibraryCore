@@ -31,4 +31,4 @@ In the asset's inspector, pick **Key Type** (Enum or Int), type the enum's full 
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE](LICENSE).
