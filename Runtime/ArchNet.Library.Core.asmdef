@@ -1,0 +1,14 @@
+{
+    "name": "ArchNet.Library.Core",
+    "rootNamespace": "ArchNet.Library",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
