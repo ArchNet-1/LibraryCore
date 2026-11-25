@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Library Core",
   "description": "Base of the ArchNet libraries: a ScriptableObject that stores values by int or enum key, with one shared inspector. Derive from KeyedLibrary<T> to make your own library.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#LibraryCore",
   "changelogUrl": "https://github.com/ArchNet-1/LibraryCore/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/LibraryCore/blob/main/LICENSE",
